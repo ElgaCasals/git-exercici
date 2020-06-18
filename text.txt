@@ -1,1 +1,5 @@
 Aqui el text es modifica desde el master
+hola. modifico el text del fitxer
+ara el modifico desde el branch 1
+
+
